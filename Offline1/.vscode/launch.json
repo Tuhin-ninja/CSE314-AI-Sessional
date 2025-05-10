@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/khalidhasantuhin/Library/CloudStorage/OneDrive-BUET/3-1/AI/AI_Sessional/Offlines/Offline1",
+      "program": "/Users/khalidhasantuhin/Library/CloudStorage/OneDrive-BUET/3-1/AI/AI_Sessional/Offlines/Offline1/build/Debug/outDebug"
+    }
+  ]
+}
