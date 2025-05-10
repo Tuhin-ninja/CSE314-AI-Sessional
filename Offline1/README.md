@@ -2,7 +2,7 @@
 
 This project is an implementation of an **N-Puzzle Solver**, which uses AI algorithms to solve sliding puzzles of size N x N.
 
-📌 **Tag**: `offline2`
+📌 **Tag**: `offline1`
 
 ## 🔗 Repository Link
 
@@ -17,8 +17,7 @@ This project is an implementation of an **N-Puzzle Solver**, which uses AI algor
 ## 🧠 Algorithms Used
 
 - A* Search
-- Manhattan Distance Heuristic
-- Misplaced Tiles Heuristic (if available)
+- Manhattan Distance, Euclidean Distance, Hamming Distance, Linear Conflicts Heuristic
 
 ## 🛠️ Requirements
 
